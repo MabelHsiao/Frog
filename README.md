@@ -2,6 +2,7 @@
 ## 台北總校第十二期產業 AI 專班- 智慧製造
 
 <img style="float: left;" src="./img/1.jpg" width="70%">
+<img style="float: left;" src="./img/a.jpg" width="70%">
 
 ## Code
 
