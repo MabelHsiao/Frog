@@ -23,3 +23,4 @@ This code was tested with python 3.7
 ```Demo.ipynb``` is the script to demonstrate with the trained model.
 
 ## Introduction
+<img style="float: left;" src="./img/1.jpg" width="50%">
