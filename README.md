@@ -24,3 +24,11 @@ This code was tested with python 3.7
 
 ## Introduction
 <img style="float: left;" src="./img/1.jpg" width="70%">
+
+<img style="float: left;" src="./img/2.jpg" width="70%">
+
+<img style="float: left;" src="./img/3.jpg" width="70%">
+
+<img style="float: left;" src="./img/4.jpg" width="70%">
+
+<img style="float: left;" src="./img/5.jpg" width="70%">
