@@ -1,6 +1,8 @@
 # Frog Sounds Classification_An Audio Recognition Application
 ## 台北總校第十二期產業 AI 專班- 智慧製造
 
+<img style="float: left;" src="./img/1.jpg" width="70%">
+
 ## Code
 
 ### Install dependencies
@@ -23,8 +25,6 @@ This code was tested with python 3.7
 ```Demo.ipynb``` is the script to demonstrate with the trained model.
 
 ## Introduction
-<img style="float: left;" src="./img/1.jpg" width="70%">
-
 <img style="float: left;" src="./img/2.jpg" width="70%">
 
 <img style="float: left;" src="./img/3.jpg" width="70%">
